@@ -1,0 +1,5 @@
+• Deep Learning-Based Prediction of Signal Peptides in Proteins Using Sequence and Physicochemical Feature Integration (IBS2-report)
+• Hybrid Movie Recommendation System Using Semantic Embeddings and Clustering Algorithms (ML-report)
+• Early Detection of Alzheimer’s Disease from Speech using VAE and Kernel Mahalanobis Distance (maths-sem3-paper)
+• Smart Tracking System using ESP32, BLE, and Blynk IoT Platform (iot-report)
+• Symptom-to-Disease Classification using PCA and ADMM (maths-sem4-report)
